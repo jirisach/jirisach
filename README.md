@@ -1,6 +1,6 @@
 Hi, I'm Jiri.
 
-I build tools that protect CRM systems from bad data.
+I build tools that protect CRM systems from bad data before it enters the system.
 
 Focus areas:
 
