@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Jiri.
 
-<!--
-**jirisach/jirisach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that protect CRM systems from bad data.
 
-Here are some ideas to get you started:
+Focus areas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• CRM data validation  
+• lead data pipelines  
+• automation and integrations  
+• RevOps tooling  
+
+Projects
+
+Lead CSV Sanitizer  
+CLI tool that cleans and validates lead CSV files before CRM import.
+
+Secure Lead Synchronization  
+Deterministic engine for safe lead synchronization across systems.
+
+Lead Entry Guard (in progress)  
+Pipeline that validates and protects CRM imports from corrupted data.
