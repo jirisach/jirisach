@@ -1,21 +1,24 @@
-Hi, I'm Jiri.
+Hi, I'm Jiří.
 
-I build tools that protect CRM systems from bad data before it enters the system.
+I build systems that define what is allowed to become data.
+
+Most CRM problems don’t start in the CRM.
+They start when no one decides if there is enough context to act.
 
 Focus areas:
 
-• CRM data validation  
-• lead data pipelines  
-• automation and integrations  
-• RevOps tooling  
+• CRM decision systems
+• lead data pipelines
+• automation and integrations
+• RevOps tooling
 
 Projects
 
 Lead CSV Sanitizer  
-CLI tool that cleans and validates lead CSV files before CRM import.
+Prepares lead data for safe entry by making inconsistencies explicit.
 
 Secure Lead Synchronization  
-Deterministic engine for safe lead synchronization across systems.
+Ensures consistent outcomes when the same lead moves across systems.
 
 Lead Entry Guard (in progress)  
-Pipeline that validates and protects CRM imports from corrupted data.
+Defines decision context at entry so leads don’t move forward without clarity.
